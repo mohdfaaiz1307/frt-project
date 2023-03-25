@@ -1,14 +1,4 @@
 @charset "UTF-8";
-/*--
-Author: W3layouts
-Author URL: http://w3layouts.com
---*/
-/*!
- * Bootstrap v4.4.1 (https://getbootstrap.com/)
- * Copyright 2011-2019 The Bootstrap Authors
- * Copyright 2011-2019 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -7238,12 +7228,7 @@ a.text-dark:hover, a.text-dark:focus {
     color: inherit;
     border-color: #dee2e6; } }
 
-/*!
- *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
- *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
- */
-/* FONT PATH
- * -------------------------- */
+
 @font-face {
   font-family: 'FontAwesome';
   src: url("../fonts/fontawesome-webfont.eot?v=4.7.0");
@@ -7259,7 +7244,7 @@ a.text-dark:hover, a.text-dark:focus {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
 
-/* makes the font 33% larger relative to the icon container */
+
 .fa-lg {
   font-size: 1.33333em;
   line-height: 0.75em;
@@ -7314,7 +7299,7 @@ a.text-dark:hover, a.text-dark:focus {
 .fa.fa-pull-right {
   margin-left: .3em; }
 
-/* Deprecated as of 4.4.0 */
+
 .pull-right {
   float: right; }
 
@@ -7398,8 +7383,7 @@ a.text-dark:hover, a.text-dark:focus {
 .fa-inverse {
   color: #fff; }
 
-/* Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen
-   readers do not read off random characters that represent icons */
+
 .fa-glass:before {
   content: ""; }
 
@@ -9674,7 +9658,7 @@ p.white {
 .radius-image-full {
   border-radius: var(--border-radius-full); }
 
-/*-- container --*/
+
 .container {
   width: 100%;
   padding-right: 15px;
@@ -9698,7 +9682,7 @@ p.white {
   .container {
     max-width: 1200px; } }
 
-/*-- //container --*/
+
 .btn-style {
   padding: 12px 35px;
   font-size: 16px;
@@ -9782,7 +9766,7 @@ span.label-blue {
   .btn-style {
     padding: 12px 26px; } }
 
-/*-- toggle switch --*/
+
 .theme-switch-wrapper {
   display: flex;
   align-items: center; }
@@ -9799,8 +9783,7 @@ span.label-blue {
 .theme-switch input {
   display: none; }
 
-/*-- //toggle switch --*/
-/*-- dark and light mode styling --*/
+
 .mode-container {
   width: 24px;
   height: 24px;
@@ -9879,7 +9862,7 @@ input:checked + .mode-container i.gg-sun {
 input:checked + .mode-container i.gg-moon {
   display: none; }
 
-/*-- //dark and light mode styling --*/
+
 .w3l-header {
   padding: 22px 0;
   box-shadow: 0 3px 9px rgba(0, 0, 0, 0.05);
@@ -10096,11 +10079,11 @@ input:checked + .mode-container i.gg-moon {
     width: 100%; } }
 
 ::-webkit-input-placeholder {
-  /* Edge */
+  
   color: #999; }
 
 :-ms-input-placeholder {
-  /* Internet Explorer 10-11 */
+  
   color: #999; }
 
 ::-moz-placeholder {
@@ -10711,11 +10694,7 @@ a.blog-desc:hover {
   a.blog-desc {
     font-size: 1.25rem; } }
 
-/**
- * Owl Carousel v2.3.4
- * Copyright 2013-2018 David Deutsch
- * Licensed under: SEE LICENSE IN https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICENSE
- */
+
 .owl-carousel,
 .owl-carousel .owl-item {
   -webkit-tap-highlight-color: transparent;
@@ -10892,11 +10871,7 @@ a.blog-desc:hover {
   .owl-carousel .owl-nav.disabled {
     display: none; } }
 
-/**
-  * Owl Carousel v2.3.4
-  * Copyright 2013-2018 David Deutsch
-  * Licensed under: SEE LICENSE IN https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICENSE
-  */
+
 .owl-theme .owl-dots,
 .owl-theme .owl-nav {
   text-align: center;
@@ -11088,4 +11063,4 @@ form.signin-form {
   form.signin-form {
     padding: 25px; } }
 
-/*# sourceMappingURL=style-starter.css.map */
+

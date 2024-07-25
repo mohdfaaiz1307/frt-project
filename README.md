@@ -1,5 +1,15 @@
-## final-project by Mohd Faaiz
-Here i created a News Blog Website that allows the reader to interact with the paper itself. Readers can now leave comments, watch videos, view photo slideshows and oftentimes contribute their own opinions and written pieces to the paper.
+Virtual Internship at FRT
+
+During my virtual internship at FRT, I completed self-paced learning modules and developed a project to enhance my skills.
+Project: News Blog Website with Health Bot
+
+    - Objective: Build a news blog website incorporating a health bot.
+    - Technologies Used: HTML, CSS, JavaScript
+    - Deployment: Deployed the website on Microsoft Azure.
+    - Key Learning Outcomes: Gained practical experience in web development and deployment.
+
+This project was part of a broader internship program focused on learning and skill development.
+
 # my website link https://brave-sky-003ef4810.2.azurestaticapps.net/
 ![Capture](https://user-images.githubusercontent.com/126075078/230358634-cf3c1467-e273-4249-a911-a33696855bb0.PNG)
 ![Capture1](https://user-images.githubusercontent.com/126075078/230358706-aada5dca-d20b-4c29-b91e-9a0be64293a6.PNG)

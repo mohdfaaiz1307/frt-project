@@ -1,8 +1,8 @@
 Virtual Internship at FRT
 
 During my virtual internship at FRT, I completed self-paced learning modules and developed a project to enhance my skills.
-Project: News Blog Website with Health Bot
 
+Project: News Blog Website with Health Bot
     - Objective: Build a news blog website incorporating a health bot.
     - Technologies Used: HTML, CSS, JavaScript
     - Deployment: Deployed the website on Microsoft Azure.
